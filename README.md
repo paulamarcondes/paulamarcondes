@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>Quality Assurance Engineer</b><br>
-  Passionate about building reliable, user-centered solutions - with Quality, value, and purpose. ✨
+  Passionate about building reliable, user-centered solutions - with Quality, value, and purpose.✨ 
 </p>
 
 ---
@@ -36,7 +36,7 @@ With a background in **Customer Experience**, I bring thoughtful attention to de
 
 ### 🛠️ Technologies I Work With
 
-#### Languages & Automation
+#### Automation & Languages
 <p>
   <img src="https://img.shields.io/badge/Robot_Framework-000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -51,7 +51,7 @@ With a background in **Customer Experience**, I bring thoughtful attention to de
   <img src="https://img.shields.io/badge/Xray-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-#### ⚙CI/CD & DevOps
+#### CI/CD & DevOps
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
