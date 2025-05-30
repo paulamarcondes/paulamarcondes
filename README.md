@@ -29,8 +29,8 @@ With a background in **Customer Experience**, I bring thoughtful attention to de
 - [**Robot-JMS-Project**](https://github.com/paulamarcondes/Robot-JMS-Project)<br>
   A mock JMS API with automated test coverage using Robot Framework and Flask.
 
-- Coming Soon: [**Playwright UI Tests**](#)<br>
-  Frontend automation with Playwright and modern best practices in UI testing.
+- Coming Soon: [**UI Tests**](#)<br>
+  Frontend automation with best practices in UI testing.
 
 ---
 
