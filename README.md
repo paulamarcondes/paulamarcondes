@@ -27,7 +27,8 @@ With a background in **Customer Experience**, I bring thoughtful attention to de
 ### 🚀 Featured Projects
 
 - [**Robot-JMS-Project**](https://github.com/paulamarcondes/Robot-JMS-Project)<br>
-  A mock JMS API with automated test coverage using Robot Framework and Flask.
+  End-to-end API test automation with Robot Framework, covering positive, negative, and server-failure flows.
+Built with Flask, Docker, and fully integrated into a CI pipeline via GitHub Actions.
 
 - Coming Soon: [**UI Tests**](#)<br>
   Frontend automation with best practices in UI testing.
