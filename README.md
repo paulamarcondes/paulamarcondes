@@ -16,8 +16,8 @@
 
 ### 😁 About Me
 
-I'm a **QA Engineer** with experience in manual and automated testing for web and mobile platforms, APIs, and Salesforce systems.  
-I work across both **frontend and backend testing** - from validating UI flows to API integrations and business logic.  
+I'm a **QA Engineer** with experience in manual and automated testing for web, mobile, API, and Salesforce systems.  
+I work across both **frontend and backend testing** - from API integrations to UI flows and business logic.  
 With a background in **Customer Experience**, I bring thoughtful attention to detail and care deeply about usability.
 
 > I believe Quality is not just about finding bugs - it's about making things that truly **work** for people.
@@ -30,8 +30,6 @@ With a background in **Customer Experience**, I bring thoughtful attention to de
   End-to-end API test automation with Robot Framework, covering positive, negative, and server-failure flows.
 Built with Flask, Docker, and fully integrated into a CI pipeline via GitHub Actions.
 
-- Coming Soon: [**UI Tests**](#)<br>
-  Frontend automation with best practices in UI testing.
 
 ---
 
