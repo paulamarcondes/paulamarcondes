@@ -14,7 +14,7 @@
 
 ---
 
-### 😁 About Me
+### About Me
 
 I'm a **QA Engineer** with experience in manual and automated testing for web, mobile, API, and Salesforce systems.  
 I work across both **frontend and backend testing** - from API integrations to UI flows and business logic.  
@@ -24,7 +24,7 @@ With a background in **Customer Experience**, I bring thoughtful attention to de
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - [**Robot-JMS-Project**](https://github.com/paulamarcondes/Robot-JMS-Project)<br>
   End-to-end API test automation with Robot Framework, covering positive, negative, and server-failure flows.
@@ -33,7 +33,7 @@ Built with Flask, Docker, and fully integrated into a CI pipeline via GitHub Act
 
 ---
 
-### 🛠️ Technologies I Work With
+### Technologies I Work With
 
 #### Automation & Languages
 <p>
@@ -68,7 +68,7 @@ Built with Flask, Docker, and fully integrated into a CI pipeline via GitHub Act
 
 ---
 
-### 🔥 Contribution Streak
+### Contribution
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulamarcondes&theme=radical"/>
@@ -76,7 +76,7 @@ Built with Flask, Docker, and fully integrated into a CI pipeline via GitHub Act
 
 ---
 
-### 🌟 Did You Know?
+### Did You Know?
 
 - 🐶 I have a tiny dachshund who supervises my coding sessions.  
 - 🏰 I already worked at Disney and on cruise ships.  
@@ -84,7 +84,7 @@ Built with Flask, Docker, and fully integrated into a CI pipeline via GitHub Act
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulamarcondes" target="_blank">
