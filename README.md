@@ -26,6 +26,10 @@ With a background in **Customer Experience**, I bring thoughtful attention to de
 
 ### Featured Projects
 
+- [Robot Framework Keyword Hub](https://paulamarcondes.github.io/robot-keywords-hub/)<br>
+ A clean, fast, and searchable hub for all keywords across various popular Robot Framework libraries. Built to provide quick, concise access to keyword documentation, arguments, and official documentation links.
+
+
 - [**Robot-JMS-Project**](https://github.com/paulamarcondes/Robot-JMS-Project)<br>
   End-to-end API test automation with Robot Framework, covering positive, negative, and server-failure flows.
 Built with Flask, Docker, and fully integrated into a CI pipeline via GitHub Actions.
