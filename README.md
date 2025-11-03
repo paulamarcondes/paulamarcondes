@@ -84,7 +84,7 @@ Built with Flask, Docker, and fully integrated into a CI pipeline via GitHub Act
 
 - 🐶 I have a tiny dachshund who supervises my coding sessions.  
 - 🏰 I already worked at Disney and on cruise ships.  
-- ✈️ My favorite thing in life is traveling (I've visited over 30 countries) and laughing with my daughter!
+- ✈️ My favorite thing in life is traveling (I've visited over 30 countries), and laughing with my daughter!
 
 ---
 
