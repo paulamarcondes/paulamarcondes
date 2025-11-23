@@ -9,18 +9,19 @@
 
 <p align="center">
   <b>Quality Assurance Engineer</b><br>
-  Passionate about building reliable, user-centered solutions - with Quality, value, and purpose.✨ 
+  Passionate about building reliable, user-centered solutions - with Quality, value, and purpose. ✨
 </p>
 
 ---
 
 ### About Me
 
-I'm a **QA Engineer** with experience in manual and automated testing for web, mobile, API, and Salesforce systems.  
-I work across both **frontend and backend testing** - from API integrations to UI flows and business logic.  
+I'm a **QA Engineer** with experience in manual and automated testing for web, mobile, API, and Salesforce systems. I work across both **frontend and backend testing** - from API integrations to UI flows and business logic.
 With a background in **Customer Experience**, I bring thoughtful attention to detail and care deeply about usability.
 
-> I believe Quality is not just about finding bugs - it's about making things that truly **work** for people.
+
+> I believe **Quality** is not just about finding bugs - it’s delivering exceptional, reliable products that **improve people’s lives**.
+
 
 ---
 
@@ -51,7 +52,8 @@ Built with Flask, Docker, and fully integrated into a CI pipeline via GitHub Act
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xray-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xray-0A84FF?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestRail-2E7D32?style=for-the-badge&logo=testrail&logoColor=white"/>
 </p>
 
 #### CI/CD & DevOps
@@ -59,14 +61,26 @@ Built with Flask, Docker, and fully integrated into a CI pipeline via GitHub Act
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white"/>
 </p>
 
 #### Methodologies
 <p>
   <img src="https://img.shields.io/badge/Agile-FCA121?style=for-the-badge&logo=scrumalliance&logoColor=black"/>
   <img src="https://img.shields.io/badge/BDD-6BA539?style=for-the-badge&logo=cucumber&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SDLC-4E4E4E?style=for-the-badge&logo=data&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SDLC-FF6C37?style=for-the-badge&logo=data&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shift--Left-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Continuous_Testing-0A84FF?style=for-the-badge&logo=clockify&logoColor=white"/>
+</p>
+
+#### AI Tools for QA
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-0A84FF?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCPs-FF6A00?style=for-the-badge&logo=protocol&logoColor=white"/>
 </p>
 
 
